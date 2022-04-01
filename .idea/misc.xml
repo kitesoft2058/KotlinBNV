@@ -3,11 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_fav_c.xml" value="0.1385" />
+        <entry key="app/src/main/res/drawable/ic_fav_n.xml" value="0.1385" />
+        <entry key="app/src/main/res/drawable/ic_fav_selecter.xml" value="0.1385" />
+        <entry key="app/src/main/res/layout/activity_item_detail.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.24583333333333332" />
-        <entry key="app/src/main/res/layout/fragment_tab1.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/fragment_tab1.xml" value="0.21574074074074073" />
         <entry key="app/src/main/res/layout/fragment_tab2.xml" value="0.24583333333333332" />
-        <entry key="app/src/main/res/layout/fragment_tab3.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/fragment_tab3.xml" value="0.20977777777777779" />
         <entry key="app/src/main/res/layout/fragment_tab4.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/tab2_recycler_item.xml" value="0.24583333333333332" />
+        <entry key="app/src/main/res/layout/tab3_pager_item.xml" value="0.20977777777777779" />
         <entry key="app/src/main/res/menu/bnv.xml" value="0.24583333333333332" />
       </map>
     </option>
